@@ -5,8 +5,7 @@ Generate a parcel-electron-react-sass based application from https://gitlab.com/
 ## Installation
 
 ```bash
-$ npm install -g create-pers-app
-$ create-pers-app my-app
+$ npx create-pers-app my-app
 $ cd my-app
 $ npm start
 ```
