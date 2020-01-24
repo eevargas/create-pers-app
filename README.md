@@ -12,5 +12,4 @@ $ npm start
 The actual repo in on GitLab:
 https://gitlab.com/eevargas/create-pers-app
 
-
 ![Icon](https://github.com/eevargas/create-pers-app/raw/master/64x64.png)
